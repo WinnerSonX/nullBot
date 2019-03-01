@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nullBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nullBot_jar</output-path>
+    <root id="archive" name="nullBot.jar">
+      <element id="module-output" name="nullBot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lavaplayer-master/classes/artifacts/lavaplayer_master_jar/lavaplayer-master.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JDA-3.8.3_460-withDependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
